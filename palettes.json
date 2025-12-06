@@ -1,0 +1,22 @@
+[
+  {
+    "name": "sakura",
+    "colors": ["#FDDDE6", "#F9B7CF", "#F28BAA", "#E95F89", "#D7386C"]
+  },
+  {
+    "name": "autumn",
+    "colors": ["#F4A259", "#D96C06", "#8C3D0C", "#5E3023", "#A65A2E"]
+  },
+  {
+    "name": "galaxy",
+    "colors": ["#2D1E6B", "#4A2EA3", "#7A3CC9", "#B15EFF", "#1A1A40"]
+  },
+  {
+    "name": "garden",
+    "colors": ["#A8D5BA", "#6BBF59", "#4E944F", "#2C5F2D", "#CCE3DE"]
+  },
+  {
+    "name": "night",
+    "colors": ["#0A0A0A", "#1C1C2E", "#30304D", "#4D4D73", "#6C6C8C"]
+  }
+]
